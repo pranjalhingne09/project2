@@ -1,3 +1,3 @@
 # New Project
 
-This project was created by Pranjal Hingne.
+This project was created by Pranjal .
